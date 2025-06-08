@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my personal frontend bootcamp where I'm trying to remember how to code without AI carrying me every game.
 
-*Fair warning: I'm a League jungler, so you'll see some gaming references sprinkled throughout. Don't worry if you don't get them – the code stuff still makes sense!*
+*Fair warning: I'm a League jungler so there might be some LoL references here and there. The coding explanations work fine without them though!*
 
 ## What's this all about?
 
