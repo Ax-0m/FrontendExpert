@@ -1,13 +1,46 @@
-# Essential Tags
+# Essential HTML Tags
 
-- Paragraph tag: used for blocks of text. &lt;p&gt;
-- Heading tag: &lt;h1&gt; to &lt;h6&gt;
-- Image tag: Empty tag and should have 2 attributes src and alt(the text if image doesn't load). &lt;img&gt;
-- Unordered List: Bulleted list. &lt;ul&gt;
-- Ordered List: Numbered List. &lt;ol&gt;
-- List: used for individual elements in both unordered and ordered list. &lt;li&gt;
-- Preformatted Text tag: preserves whitespaces, which can be useful when indented text and newlines to be preserved. &lt;pre&gt;
-- Break tag: line break &lt;br&gt;
-- Anchor tag: Linking pages. &lt;a&gt;
-- Emphasis tag: rendering italics &lt;em&gt;
-- Strong tag: bold rendering &lt;strong&gt;
+Quick reference for the core tags you'll actually use.
+
+## Text Content
+
+**Paragraph** `<p>`  
+Basic text blocks. Your main damage dealer for content.
+
+**Headings** `<h1>` to `<h6>`  
+Structure your content hierarchy. H1 is your carry, h6 is support.
+
+**Preformatted** `<pre>`  
+Preserves spacing and formatting. Good for code blocks.
+
+## Media
+
+**Image** `<img>`  
+Self-closing. Needs `src` (file path) and `alt` (backup text).
+
+## Lists
+
+**Unordered List** `<ul>`  
+Bulleted lists.
+
+**Ordered List** `<ol>`  
+Numbered lists.
+
+**List Item** `<li>`  
+Goes inside both ul and ol tags.
+
+## Links & Breaks
+
+**Anchor** `<a>`  
+Creates links. Use `href` attribute for destination.
+
+**Line Break** `<br>`  
+Single line break. Self-closing.
+
+## Text Styling
+
+**Emphasis** `<em>`  
+Italic text with semantic meaning.
+
+**Strong** `<strong>`  
+Bold text with importance.

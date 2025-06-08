@@ -1,6 +1,8 @@
-# My Frontend Learning Journey
+# 🧠 My Frontend Learning Journey – From Bronze to Challenger
 
 Hey there! Welcome to my personal frontend bootcamp where I'm trying to remember how to code without AI carrying me every game.
+
+*Fair warning: I'm a League jungler, so you'll see some gaming references sprinkled throughout. Don't worry if you don't get them – the code stuff still makes sense!*
 
 ## What's this all about?
 
@@ -52,4 +54,4 @@ Trying to climb the ladder and get my skills back up to where they should be. If
 Let's see if I can avoid getting jungle diffed this time.
 
 GLHF!  
-– Ax0m 🎮 (jungle main btw)
+– Prakhar 🎮 (jungle main btw)

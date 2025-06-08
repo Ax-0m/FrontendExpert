@@ -1,9 +1,30 @@
 # Tables
 
-- &lt;tr&gt;: signle row in the table
-- &lt;th&gt;: heading in the table
-- &lt;td&gt;: single piece of data in the table.
-- &lt;thead&gt;: a grouping tag for all the headings
-- &lt;tbody&gt;: a grouping tag for all the body
-- &lt;tfoot&gt;: a grouping tag for all the table
-- &lt;caption&gt;: A capion or title for table
+For displaying data in rows and columns. Your scoreboard layout.
+
+## Basic Structure
+
+**Table Row** `<tr>`  
+Single row in the table.
+
+**Table Header** `<th>`  
+Heading cell in the table. Bold by default.
+
+**Table Data** `<td>`  
+Regular data cell in the table.
+
+## Grouping Tags
+
+**Table Head** `<thead>`  
+Groups all the header rows together.
+
+**Table Body** `<tbody>`  
+Groups all the main content rows.
+
+**Table Footer** `<tfoot>`  
+Groups footer rows (totals, summaries).
+
+## Additional
+
+**Caption** `<caption>`  
+Title or description for the entire table. Goes right after opening `<table>` tag.
