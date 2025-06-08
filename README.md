@@ -1,4 +1,4 @@
-# 🧠 My Frontend Learning Journey – From Bronze to Challenger
+# My Frontend Learning Journey
 
 Hey there! Welcome to my personal frontend bootcamp where I'm trying to remember how to code without AI carrying me every game.
 
